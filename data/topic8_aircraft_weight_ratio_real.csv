@@ -1,0 +1,59 @@
+Year,OEW_to_MTOW,Aircraft_Designation,Aircraft_Type
+1959,0.50713,F27,Turboprops
+1959,0.49126,L188A-08/188C,Turboprops
+1965,0.61031,CV600,Turboprops
+1967,0.51984,B737-100/200,Turboprops
+1970,0.5865,SA226,Turboprops
+1977,0.6246,DHC7,Turboprops
+1981,0.63729,S360,Turboprops
+1982,0.64206,J31,Turboprops
+1984,0.57221,B1900,Turboprops
+1984,0.63729,DHC8-100,Turboprops
+1985,0.60079,ATR42,Turboprops
+1985,0.61824,S340A,Turboprops
+1985,0.6246,EMB120,Turboprops
+1985,0.64523,SA227,Turboprops
+1988,0.59761,BAE-ATP,Turboprops
+1989,0.58015,ATR72,Turboprops
+1992,0.60554,J41,Turboprops
+1993,0.63412,D328,Turboprops
+1998,0.62618,DHC8-300,Turboprops
+1960,0.47031,CV880,Regional Jets
+1965,0.58528,BAC111-200,Regional Jets
+1965,0.55798,BAC111-400,Regional Jets
+1968,0.57954,F28-1000,Regional Jets
+1976,0.52923,F28-4000/6000,Regional Jets
+1983,0.60971,BAE146-100/RJ70,Regional Jets
+1983,0.56229,BAE146-200,Regional Jets
+1987,0.56373,F100,Regional Jets
+1988,0.56376,BAE-146-300,Regional Jets
+1993,0.55798,RJ85,Regional Jets
+1995,0.63271,RJ200/ER,Regional Jets
+1996,0.56373,EMB145,Regional Jets
+1962,0.41126,B707-300B,Large Aircraft
+1965,0.55571,DC9-10,Large Aircraft
+1966,0.4684,DC9-30,Large Aircraft
+1967,0.57158,B727-200/231A,Large Aircraft
+1967,0.52237,FH227,Large Aircraft
+1968,0.48427,DC9-40,Large Aircraft
+1970,0.51444,B747-200/300,Large Aircraft
+1970,0.4811,B747-100,Large Aircraft
+1970,0.53507,DC10-10,Large Aircraft
+1972,0.47793,DC10-40,Large Aircraft
+1972,0.46047,DC10-30,Large Aircraft
+1973,0.53665,L1011-1/100/200,Large Aircraft
+1976,0.50967,DC9-50,Large Aircraft
+1979,0.47793,L1011-500,Large Aircraft
+1980,0.5684,MD80 & DC9-80,Large Aircraft
+1983,0.53983,B767-200/ER,Large Aircraft
+1984,0.52078,A300-600,Large Aircraft
+1984,0.54936,B757-200,Large Aircraft
+1984,0.54777,B737-300,Large Aircraft
+1985,0.50967,A310-300,Large Aircraft
+1987,0.52396,B767-300/ER,Large Aircraft
+1988,0.55411,A320-100/200,Large Aircraft
+1988,0.52237,B737-400,Large Aircraft
+1989,0.48269,B747-400,Large Aircraft
+1990,0.45729,MD11,Large Aircraft
+1990,0.58269,B737-500/600,Large Aircraft
+1995,0.49221,B777,Large Aircraft
